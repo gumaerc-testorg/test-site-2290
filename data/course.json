@@ -1,0 +1,26 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-site-2290"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site-2290"
+  },
+  "course_title": "test-site-2290",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2290",
+  "learning_resource_types": [],
+  "site_uid": "e94aca4a-ed31-4a03-a82a-3372b8bf8331",
+  "site_short_id": "test-site-2290"
+}
